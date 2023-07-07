@@ -23,12 +23,14 @@ Expense Tracker is a web application that helps you track your expenses. It allo
 To run the Expense Tracker application locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/nith2349/CodeClause_Expense_Tracker.git
 
-2. Navigate to the project directory:
-cd CodeClause_Expense_Tracker
+    git clone https://github.com/nith2349/CodeClause_Expense_Tracker.git
 
-3. Open `index.html` in a web browser.
+3. Navigate to the project directory:
+
+    cd CodeClause_Expense_Tracker
+
+4. Open `index.html` in a web browser.
 
 ## Usage
 
